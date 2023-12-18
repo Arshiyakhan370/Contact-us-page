@@ -158,7 +158,7 @@ background: #FFF;
 select{
   display: flex;
   height:45px;
-padding: 7.5px 440.296px 7.5px 21.704px;
+padding: 7.5px 430.296px 7.5px 21.704px;
 justify-content: flex-end;
 align-items: center;
 gap: 383.179px;
@@ -169,7 +169,7 @@ border: 1px solid rgba(0, 0, 0, 0.20);
 background: #FFF;
 }
 #number{
-  padding: 7.5px 313.296px 7.5px 21.704px;
+  padding: 7.5px 326.296px 7.5px 21.704px;
 }
 .textarea-group textarea {
   resize: none; 
@@ -178,7 +178,7 @@ background: #FFF;
   
   background: #FFF;
   display: flex;
-padding: 7.148px 355.296px 3.852px 21.704px;
+padding: 7.148px 239.296px 3.852px 21.704px;
 align-items: center;
 align-self: stretch;
 border-radius: 4px;
